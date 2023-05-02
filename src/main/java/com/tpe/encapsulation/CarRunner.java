@@ -10,8 +10,6 @@ public class CarRunner {
 
         car1.setModel("BMW");
 
-
-
         System.out.println(car1.getFuel());
 
     }
