@@ -11,6 +11,8 @@ public class Personnel {
         System.out.println("All staff has a salary");
 
     }
+
+
     protected  void overtime(){
         System.out.println("All personnel work overtime according to their status");
     }
