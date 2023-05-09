@@ -16,6 +16,7 @@ public class Personnel {
     protected  void overtime(){
         System.out.println("All personnel work overtime according to their status");
     }
+    //yeni durum
     protected void overtimeSalary(){
         System.out.println("Personnel receive overtime pay according to their status");
     }
